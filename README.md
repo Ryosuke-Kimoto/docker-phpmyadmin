@@ -10,7 +10,7 @@ config.user.inc.phpは自分で埋めてください。
 コンテナの開始  
 `docker-compose up -d`  
 
-コンテナの一括停止  
+コンテナの停止  
 `docker-compose stop`  
 
 ## URL
