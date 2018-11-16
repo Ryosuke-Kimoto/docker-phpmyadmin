@@ -6,6 +6,13 @@ phpmyadminをdockerで動かす
 ## 設定は編集してください
 config.user.inc.phpは自分で埋めてください。  
 
+## 使用方法
+コンテナの開始  
+`docker-compose up -d`  
+
+コンテナの一括停止  
+`docker-compose stop`  
+
 ## URL
 Win：http://192.168.99.100:9090  
 Mac：http://localhost:9090  
