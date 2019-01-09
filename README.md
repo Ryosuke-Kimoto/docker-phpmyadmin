@@ -1,4 +1,4 @@
-# phpmyadmin
+# docker-phpmyadmin
 
 phpmyadminをdockerで動かす  
 データベースに直接アクセスできる環境に限ります。  
